@@ -1,0 +1,80 @@
+commit 34b46c228fd4edc86c51fbcf208d1bb565416276
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Fri Jul 14 19:32:30 2023 +0200
+
+    Agregando 2 parrafos
+
+commit 4f29a0a701971d2ac0a073f3f3c459e1e4c010fb
+Merge: a1e9303 7a2e3a5
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Fri Jul 14 19:30:08 2023 +0200
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit a1e9303ec989de8af034c6d633f59691e03a17dc
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Fri Jul 14 19:07:13 2023 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 7a2e3a572c4bd0730e01bdb76a2b4157a30d72b9
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Fri Jul 14 19:07:13 2023 +0200
+
+    Agregando estaciones del año
+
+commit 5aa0361f55d3e59081780579cfaa5350a6794c20
+Merge: 15eaa63 0540d29
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Wed Jul 12 01:00:03 2023 +0200
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 0540d2987dfa8a1418fbac198bba7908557270d1
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Wed Jul 12 00:53:29 2023 +0200
+
+    Agregando index.js al index.html
+
+commit 15eaa63afefe5eb6be37d9b1831476e645ce87c2
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Wed Jul 12 00:51:03 2023 +0200
+
+    Agregando style.css al index.html
+
+commit c43936dcde64f679a2b9002471f819b4359bc57b
+Merge: 68aac96 1364d3b
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Tue Jul 11 17:43:20 2023 +0200
+
+    Merge branch 'js'
+
+commit 1364d3bd716db2828f4d1866c17778d0a6e6eedd
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Tue Jul 11 17:38:19 2023 +0200
+
+    Creando index.js
+
+commit 68aac965cc87996a7c5ec8625e594f130089839d
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Tue Jul 11 17:33:18 2023 +0200
+
+    Creando style.css
+
+commit 0222814b6c3643bcc8bf4d257c75832cc48043ec
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Tue Jul 11 17:28:27 2023 +0200
+
+    Creando index.html
+
+commit 4922aa11f3c53e3837388137b79badc80977800f
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Tue Jul 11 17:18:33 2023 +0200
+
+    Agregando mas contenido al README
+
+commit c5df7a2c3ce85caf5d9aeda8be5f2cd42cd4c185
+Author: Elias Galvis <eljosegla@gmail.com>
+Date:   Tue Jul 11 17:03:44 2023 +0200
+
+    Agregando contenido al README
